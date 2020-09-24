@@ -3,7 +3,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
-"" Automatically moves you cursor to the right place after putting a newline
+"" Automatically moves your cursor to the right place after putting a newline
 set autoindent
 
 "" Allows you to tab through multiple search results
